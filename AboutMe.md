@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaganoAlan
 - 👀 I’m interested in become a software architect
-- 🌱 I’m currently learning frontend and UX research
-- 💞️ I’m looking to collaborate on projects that give me experience and fun
+- 🌱 I’m currently learning frontend and Software Engineering
+- 💞️ I’m looking to collaborate on projects that give me experience and fun, so call me
 - 📫 How to reach me email <maganoalan@gmail.com> <FaceBook/Alan Magano>
 
 <!---
