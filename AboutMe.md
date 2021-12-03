@@ -9,6 +9,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaganoAlan&show_icons=true&theme=dracula)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" />
+
+
 
 <!---
 MaganoAlan/MaganoAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
