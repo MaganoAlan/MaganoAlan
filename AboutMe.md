@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on projects that give me experience and fun, so call me
 - 📫 How to reach me email <maganoalan@gmail.com> <FaceBook/Alan Magano>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaganoAlan)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoAlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 
 <!---
 MaganoAlan/MaganoAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
