@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoAlan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaganoAlan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoAlan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 MaganoAlan/MaganoAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
