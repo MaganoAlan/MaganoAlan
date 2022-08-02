@@ -1,15 +1,21 @@
+> O GIF a seguir é um projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage e ainda encontra-se na fase alpha enquanto o cliente avalia a escalabilidade do projeto. Atualmente o App conta com cadastro de usuários, login através de email e senha, upload de arquivos (avaliação física dos alunos), bloqueio de datas (dias em que a academia não abrirá), agendamento de aula extra aos sábados disponíveis, consulta e download de avaliação física (via do aluno). O design da interface bem como o desenvolvimento feitos por mim utilizando a logo oficial do cliente sob aprovação do mesmo.
+
+> PS: A imagem de download/upload é apenas ilustrativa será substituida pela avaliação física.
+
+![studio fitness](https://user-images.githubusercontent.com/81033754/182493922-98f182bf-600d-4e53-b1ef-4fe971a6b292.gif)
+
 - 👋 Hi, I’m @MaganoAlan
-- 👀 I’m interested in become a software architect
-- 🌱 I’m currently learning frontend and Software Engineering
+- 👀 I’m interested in FrontEnd development
+- 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on projects that give me experience and fun, so call me
-- 📫 How to reach me email <maganoalan@gmail.com> <FaceBook/Alan Magano>
+- 📫 How to reach me email <maganoalan@gmail.com>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoAlan&layout=compact&show_icons=true&border_radius=10&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/>   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaganoAlan&show_icons=true&border_radius=10&theme=merko)
 
