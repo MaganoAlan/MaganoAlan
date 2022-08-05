@@ -19,6 +19,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaganoAlan&show_icons=true&border_radius=10&theme=merko)
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 MaganoAlan/MaganoAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
