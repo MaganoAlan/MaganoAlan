@@ -1,6 +1,8 @@
 > Projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage e ainda encontra-se na fase alpha enquanto o cliente avalia a escalabilidade do projeto. Atualmente o App conta com cadastro de usuários, login através de email e senha, upload de arquivos (avaliação física dos alunos), bloqueio de datas (dias em que a academia não abrirá), agendamento de aula extra aos sábados disponíveis, consulta e download de avaliação física (via do aluno).
 
 link da playstore: https://play.google.com/store/apps/details?id=com.studiofitness
+QRCODE: 
+![studiofitness](https://user-images.githubusercontent.com/81033754/184629997-aad14ad2-4f33-42a8-a1ff-d6a0b8429409.jpeg)
 
 > PS: A imagem de download/upload é apenas ilustrativa será substituída pela avaliação física.
 
