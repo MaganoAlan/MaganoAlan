@@ -1,4 +1,6 @@
-> O GIF a seguir é um projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage e ainda encontra-se na fase alpha enquanto o cliente avalia a escalabilidade do projeto. Atualmente o App conta com cadastro de usuários, login através de email e senha, upload de arquivos (avaliação física dos alunos), bloqueio de datas (dias em que a academia não abrirá), agendamento de aula extra aos sábados disponíveis, consulta e download de avaliação física (via do aluno). O design da interface bem como o desenvolvimento feitos por mim utilizando a logo oficial do cliente sob aprovação do mesmo.
+> Projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage e ainda encontra-se na fase alpha enquanto o cliente avalia a escalabilidade do projeto. Atualmente o App conta com cadastro de usuários, login através de email e senha, upload de arquivos (avaliação física dos alunos), bloqueio de datas (dias em que a academia não abrirá), agendamento de aula extra aos sábados disponíveis, consulta e download de avaliação física (via do aluno).
+
+link da playstore: https://play.google.com/store/apps/details?id=com.studiofitness
 
 > PS: A imagem de download/upload é apenas ilustrativa será substituída pela avaliação física.
 
