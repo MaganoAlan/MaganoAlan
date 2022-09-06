@@ -1,20 +1,22 @@
-Projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage e ainda encontra-se na fase alpha enquanto o cliente avalia a escalabilidade do projeto. Atualmente o App conta com cadastro de usuários, login através de email e senha, upload de arquivos (avaliação física dos alunos), bloqueio de datas (dias em que a academia não abrirá), agendamento de aula extra aos sábados disponíveis, consulta e download de avaliação física (via do aluno).
+Projeto para uma academia do meu bairro (divulgação com a permissão do proprietário), utilizando React Native, TypeScript, native-base, FireBase, FireStorage. Atualmente o App possui 71 usuários ativos.
+
+# Features:
+  > Cadastro com email e senha;
+  > Agendamento/cancelamento de aulas extras aos sábados;
+  > Consulta e download de avaliação física;
+  > Consulta de data de vencimento da mensalidade e data da próxima avaliação;
+  > Claculadora de água (quantidade de água a ser ingerida diariamente);
+  
+  ## Admin:
+  
+  > Definição das datas de avaliação, vencimento da validade, sábados disponíveis e quantidade de alunos por dia;
+  > Upload de avaliação física;
+  > Consulta de alunos matriculados (quantidade, email, telefone);
 
 link da playstore: https://play.google.com/store/apps/details?id=com.studiofitness
 
 
-![studiofitness](https://user-images.githubusercontent.com/81033754/184629997-aad14ad2-4f33-42a8-a1ff-d6a0b8429409.jpeg)
-
-> PS: A imagem de download/upload é apenas ilustrativa será substituída pela avaliação física.
-
 ![studio fitness](https://user-images.githubusercontent.com/81033754/182493922-98f182bf-600d-4e53-b1ef-4fe971a6b292.gif)
-
-- 👋 Hi, I’m @MaganoAlan
-- 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning FrontEnd
-- 💞️ I’m looking to collaborate on projects that give me experience and fun, so call me
-- 📫 How to reach me email <maganoalan@gmail.com>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoAlan&layout=compact&show_icons=true&border_radius=10&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
